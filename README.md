@@ -1,7 +1,7 @@
 # Machine Learning Engineer & Music composer
 
 
-#### Technical Skills: Python, TensoFlow
+#### Technical Skills: Python, TensoFlow, Keras, Librosa
 
 ## Education
 - Ph.D., Chemical Engineering | Georgia Tech 							       		
