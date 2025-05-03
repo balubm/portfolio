@@ -8,11 +8,11 @@
 - M.S., Chemical Engineering | Georgia Tech 				        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Music Technologist, Sound Engineer and Music Composer @ Sonic Pro Studios (_November 2015 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Data Scientist (Process Development Engineer) @ Intel Corporation (_January 2010 - October 2015)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
@@ -42,7 +42,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-## JOURNAL PAPERS
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
 2. B. Balu, A. D. Berry, K. T. Patel, V. Breedveld and D. W. Hess, &quot;Directional Mobility and Adhesion
 of Water Drops on Patterned Superhydrophobic Surfaces &quot;, Submitted, 2009.
@@ -65,7 +64,8 @@ Sensors Utilizing Plasma-Deposited Fluorocarbon Membranes”, Analytical Chemist
 9. B. Balu, J. S. Kim, V. Breedveld and D. W. Hess, “Design of Superhydrophobic Paper/Cellulose
 Surfaces Using Plasma Processing&quot;, In: Contact Angle, Wettability and Adhesion, Vol. 6
 Ed: K. Mittal, Koninklijke Brill NV, Leiden (Netherlands) (2009).
-## PATENT AND INVENTION DISCLOSURE
+
+## Patent and invention disclosures
 1. B. Balu, V. Breedveld and D. W. Hess, &quot;Superhydrophobic Paper by Plasma Processing&quot;, Provisional
 US Patent Application, Serial No.: 61/089,932, Filing Date: August 19, 2008.
 2. B. Balu, V. Breedveld and D. W. Hess, &quot;Patterning of Superhydrophobic Paper Surfaces to Control the
