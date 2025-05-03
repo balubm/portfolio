@@ -1,12 +1,11 @@
 # Machine Learning Engineer & Music composer
 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, TensoFlow
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Chemical Engineering | Georgia Tech 							       		
+- M.S., Chemical Engineering | Georgia Tech 				        		
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
@@ -43,14 +42,35 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
+## JOURNAL PAPERS
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+2. B. Balu, A. D. Berry, K. T. Patel, V. Breedveld and D. W. Hess, &quot;Directional Mobility and Adhesion
+of Water Drops on Patterned Superhydrophobic Surfaces &quot;, Submitted, 2009.
+3. B. Balu, A. D. Berry, D. W. Hess, and V. Breedveld, &quot;Patterning of SH Paper to Control the Mobility
+of Micro-Liter Drops for Two-Dimensional Lab-on-Paper Applications&quot;, Lab on a Chip,
+DOI:10.1039/B909868B
+4. B. Balu, J. S. Kim, V. Breedveld and D. W. Hess, &quot;Tunability of the Adhesion of Water Drops on a
+Superhydrophobic Paper Surface via Selective Plasma Etching&quot;, Journal of Adhesion Science and
+Technology, 23, 361-380, 2009
+5. B. Balu, V. Breedveld and D. W. Hess, &quot;Fabrication of &quot;Roll-off&quot; and &quot;Sticky&quot; Superhydrophobic
+Cellulose Surfaces via Plasma Processing&quot;, Langmuir, 24 (9), 4785-4790, 2008
+6. J. Wiedemair, B. Balu, J.S. Moon, D. W. Hess, B. Mizaikoff, and C. Kranz, &quot;Plasma Deposited
+Fluorocarbon Films: Novel Insulation Material for Microelectrodes and Combined AFM-SECM
+Probes&quot;, Analytical Chemistry, 80 (13), 5260-5265, 2008.
+7. M. A. Urynowicz, B. Balu, and U. Udayasankar, “Chemical Reaction Kinetics of Natural Organic
+Matter”, Journal of Contaminant Hydrology, 96(1-4),187-194, 2008
+8. G. T. Dobbs, B. Balu, C.Young, C. Kranz, D. W. Hess, and B. Mizaikoff, “Mid-Infrared Chemical
+Sensors Utilizing Plasma-Deposited Fluorocarbon Membranes”, Analytical Chemistry, 79(24), 9566-
+9571, 2007
+9. B. Balu, J. S. Kim, V. Breedveld and D. W. Hess, “Design of Superhydrophobic Paper/Cellulose
+Surfaces Using Plasma Processing&quot;, In: Contact Angle, Wettability and Adhesion, Vol. 6
+Ed: K. Mittal, Koninklijke Brill NV, Leiden (Netherlands) (2009).
+## PATENT AND INVENTION DISCLOSURE
+1. B. Balu, V. Breedveld and D. W. Hess, &quot;Superhydrophobic Paper by Plasma Processing&quot;, Provisional
+US Patent Application, Serial No.: 61/089,932, Filing Date: August 19, 2008.
+2. B. Balu, V. Breedveld and D. W. Hess, &quot;Patterning of Superhydrophobic Paper Surfaces to Control the
+Storage, Mobility, and Transport of Liquid Drops for Microfluidic Applications&quot;, Provisional US
+Patent Application, Serial No.: 61/171,959, Filing Date: April 23, 2009.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+
+- [Music Composer Reel](https://play.reelcrafter.com/BOtkvkkMQc2Bi-ONyx15uQ)
