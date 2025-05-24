@@ -1,15 +1,13 @@
 # 🎵 Machine Learning Researcher · Music Technologist · Composer
 
 ## Summary
-Experienced professional with a Ph.D. and a strong foundation in data-driven problem-solving, developed through hands-on work at Intel in advanced manufacturing and analytics. Currently focused on applying data analysis, machine learning, and deep learning techniques to audio and music applications.
-
-Founder of **Sonic Pro Studios**, where I integrate generative AI and advanced ML/DL methods to drive innovation in music composition. Passionate about blending technical insight with creative expression to deliver impactful, cross-disciplinary projects.
+Experienced professional with a Ph.D. and a strong foundation in data-driven problem-solving, developed through hands-on work at Intel in advanced manufacturing and analytics. Currently focused on applying data analysis, machine learning, and deep learning techniques to audio and music applications. Founder of Sonic Pro Studios, where I integrate generative AI and advanced ML/DL methods to drive innovation in music composition. Passionate about blending technical insight with creative expression to deliver impactful, cross-disciplinary projects.
 
 ---
 
-## 🔧 Technical Skills
-- **Languages & Frameworks:** Python, TensorFlow, Keras, Librosa
-- **Domains:** Audio Signal Processing, Deep Learning, Statistical Modeling
+## 🛠️ Skills
+- **Programming & Tools:** Python, TensorFlow, Keras, Librosa, music21, NumPy, pandas, matplotlib, Jupyter Notebook
+- **DAWs & Notation Software:** Logic Pro, MuseScore, Sibelius, NotePerformer
 
 ---
 
@@ -24,7 +22,6 @@ Founder of **Sonic Pro Studios**, where I integrate generative AI and advanced M
 ### 🎶 [Raag Bihag Composition Using RNN-LSTM](https://github.com/balubm/Raag-Bihag-composition-by-RNN-LSTM)
 - Built a melody generation model using RNNs (LSTM) trained on Indian classical sequences.
 - Generated MIDI outputs capturing stylistic phrases of Raag Bihag.
-- Features one-hot encoded input, token mapping, and musically coherent short ideas (4–5 bars).
 - Future improvements: extend to longer arcs and polyphonic textures.
 
 ---
@@ -41,7 +38,6 @@ Founder of **Sonic Pro Studios**, where I integrate generative AI and advanced M
 - Used first-order Markov Chains on MIDI data to generate Indian classical melodies.
 - State definition: (note, duration) tuples capturing transition probabilities.
 - Outputs MusicXML for use in MuseScore, includes transition matrix visualizations.
-- Customizable for time signatures and rhythmic structures.
 
 ---
 
@@ -62,7 +58,7 @@ Founder of **Sonic Pro Studios**, where I integrate generative AI and advanced M
 
 ---
 
-## 🎧 [Music Composer Reel (ReelCrafter Link)](https://play.reelcrafter.com/BOtkvkkMQc2Bi-ONyx15uQ)
+## 🎧 [Music Composer Reel](https://play.reelcrafter.com/BOtkvkkMQc2Bi-ONyx15uQ)
 
 ---
 
