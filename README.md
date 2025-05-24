@@ -59,6 +59,6 @@ Experienced professional with a Ph.D. and a strong foundation in data-driven pro
 
 ---
 
-## 🎧 [Music Composer Reel](https://play.reelcrafter.com/BOtkvkkMQc2Bi-ONyx15uQ)
+### 🎧 [Music Composer Reel](https://play.reelcrafter.com/BOtkvkkMQc2Bi-ONyx15uQ)
 
 ---
