@@ -1,4 +1,4 @@
-# 🎵 Machine Learning Researcher · Music Technologist · Composer
+# Machine Learning Researcher · Music Technologist · Composer
 
 ## Summary
 Experienced professional with a Ph.D. and a strong foundation in data-driven problem-solving, developed through hands-on work at Intel in advanced manufacturing and analytics. Currently focused on applying data analysis, machine learning, and deep learning techniques to audio and music applications. Founder of Sonic Pro Studios, where I integrate generative AI and advanced ML/DL methods to drive innovation in music composition. Passionate about blending technical insight with creative expression to deliver impactful, cross-disciplinary projects.
