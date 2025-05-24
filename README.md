@@ -42,7 +42,6 @@ Experienced professional with a Ph.D. and a strong foundation in data-driven pro
 ---
 
 ## 💼 Work Experience
-
 ### Music Technologist | Composer  
 **Sonic Pro Studios**  
 **October 2015 – Present**  
