@@ -29,7 +29,7 @@ Experienced professional with a Ph.D. and a strong foundation in data-driven pro
 ### [Musical Instrument Classification with CNN](https://github.com/balubm/Music-Instrument-Classification_CNN)
 - Designed a full pipeline to classify instruments from audio clips using CNNs.
 - Used Librosa for MFCC extraction and audio preprocessing.
-- **Results:** Precision – 92.75%, Recall – 90.27%, F1 Score – 91.29%.
+- Results: Precision – 92.75%, Recall – 90.27%, F1 Score – 91.29%.
 - Includes model training, evaluation tools, and performance benchmarking.
 
 ---
