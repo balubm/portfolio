@@ -44,6 +44,7 @@ Experienced professional with a Ph.D. and a strong foundation in data-driven pro
 ## 💼 Work Experience
 
 ### 🎹 Music Technologist | Composer  
+**Sonic Pro Studios**  
 **October 2015 – Present**  
 - Composed music for 12+ feature films and 100+ multimedia projects.
 - Developed ML models for music generation and audio analysis.
