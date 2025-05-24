@@ -11,12 +11,6 @@ Experienced professional with a Ph.D. and a strong foundation in data-driven pro
 
 ---
 
-## 🎓 Education
-- **Ph.D., Chemical Engineering** – Georgia Institute of Technology  
-- **M.S., Chemical Engineering** – Georgia Institute of Technology  
-
----
-
 ## 💡 Projects
 
 ### [Raag Bihag Composition Using RNN-LSTM](https://github.com/balubm/Raag-Bihag-composition-by-RNN-LSTM)
@@ -38,6 +32,12 @@ Experienced professional with a Ph.D. and a strong foundation in data-driven pro
 - Used first-order Markov Chains on MIDI data to generate Indian classical melodies.
 - State definition: (note, duration) tuples capturing transition probabilities.
 - Outputs MusicXML for use in MuseScore, includes transition matrix visualizations.
+
+---
+
+## 🎓 Education
+- **Ph.D., Chemical Engineering** – Georgia Institute of Technology  
+- **M.S., Chemical Engineering** – Georgia Institute of Technology  
 
 ---
 
