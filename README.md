@@ -19,14 +19,14 @@ Experienced professional with a Ph.D. and a strong foundation in data-driven pro
 
 ## 💡 Projects
 
-### 🎶 [Raag Bihag Composition Using RNN-LSTM](https://github.com/balubm/Raag-Bihag-composition-by-RNN-LSTM)
+### [Raag Bihag Composition Using RNN-LSTM](https://github.com/balubm/Raag-Bihag-composition-by-RNN-LSTM)
 - Built a melody generation model using RNNs (LSTM) trained on Indian classical sequences.
 - Generated MIDI outputs capturing stylistic phrases of Raag Bihag.
 - Future improvements: extend to longer arcs and polyphonic textures.
 
 ---
 
-### 🧠 [Musical Instrument Classification with CNN](https://github.com/balubm/Music-Instrument-Classification_CNN)
+### [Musical Instrument Classification with CNN](https://github.com/balubm/Music-Instrument-Classification_CNN)
 - Designed a full pipeline to classify instruments from audio clips using CNNs.
 - Used Librosa for MFCC extraction and audio preprocessing.
 - **Results:** Precision – 92.75%, Recall – 90.27%, F1 Score – 91.29%.
@@ -34,7 +34,7 @@ Experienced professional with a Ph.D. and a strong foundation in data-driven pro
 
 ---
 
-### 🎼 [Raag Bhairav Melody Generation with Markov Chains](https://github.com/balubm/Raag-Bhairav-composition-by-GEN-AI_Markov-Chain)
+### [Raag Bhairav Melody Generation with Markov Chains](https://github.com/balubm/Raag-Bhairav-composition-by-GEN-AI_Markov-Chain)
 - Used first-order Markov Chains on MIDI data to generate Indian classical melodies.
 - State definition: (note, duration) tuples capturing transition probabilities.
 - Outputs MusicXML for use in MuseScore, includes transition matrix visualizations.
@@ -43,14 +43,14 @@ Experienced professional with a Ph.D. and a strong foundation in data-driven pro
 
 ## 💼 Work Experience
 
-### 🎹 Music Technologist | Composer  
+### Music Technologist | Composer  
 **Sonic Pro Studios**  
 **October 2015 – Present**  
 - Composed music for 12+ feature films and 100+ multimedia projects.
 - Developed ML models for music generation and audio analysis.
 - Collaborated with global musicians, integrating AI with cultural soundscapes.
 
-### 🧪 Process Development Engineer | Data Science & Yield Analytics  
+### Process Development Engineer | Data Science & Yield Analytics  
 **Intel Corporation**  
 **January 2010 – October 2015**  
 - Improved 14nm/10nm yields by up to 30% using statistical modeling.
