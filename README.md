@@ -37,7 +37,17 @@ Experienced professional with a Ph.D. and a strong foundation in data-driven pro
 
 ## 🎓 Education
 - **Ph.D., Chemical Engineering** – Georgia Institute of Technology  
-- **M.S., Chemical Engineering** – Georgia Institute of Technology  
+- **M.S., Chemical Engineering** – Georgia Institute of Technology
+
+---
+
+## 📜 Certifications
+- **Machine Learning Specialization** – *Stanford University / DeepLearning.AI (Andrew Ng)*  
+  Trained models using scikit-learn and TensorFlow. Covered supervised and unsupervised learning, decision trees, recommender systems, and deep reinforcement learning.
+- **Deep Learning Specialization** – *Stanford University / DeepLearning.AI (Andrew Ng)*  
+  Built CNNs and RNNs; applied deep learning to computer vision, NLP, and generative art. Implemented optimization techniques and trained models in TensorFlow.
+- **AI For Everyone** – *Stanford University / DeepLearning.AI (Andrew Ng)*  
+  Explored AI strategy, ethical considerations, and non-technical implementation of AI in business and society.
 
 ---
 
