@@ -42,11 +42,11 @@ Experienced professional with a Ph.D. and a strong foundation in data-driven pro
 ---
 
 ## 📜 Certifications
-- **Machine Learning Specialization** – *Stanford University / DeepLearning.AI (Andrew Ng)*  
+- **Machine Learning Specialization** – *Stanford University / DeepLearning.AI*  
   Trained models using scikit-learn and TensorFlow. Covered supervised and unsupervised learning, decision trees, recommender systems, and deep reinforcement learning.
-- **Deep Learning Specialization** – *Stanford University / DeepLearning.AI (Andrew Ng)*  
+- **Deep Learning Specialization** – *Stanford University / DeepLearning.AI*  
   Built CNNs and RNNs; applied deep learning to computer vision, NLP, and generative art. Implemented optimization techniques and trained models in TensorFlow.
-- **AI For Everyone** – *Stanford University / DeepLearning.AI (Andrew Ng)*  
+- **AI For Everyone** – *Stanford University / DeepLearning.AI*  
   Explored AI strategy, ethical considerations, and non-technical implementation of AI in business and society.
 
 ---
