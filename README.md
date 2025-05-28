@@ -68,6 +68,6 @@ January 2010 – October 2015
 
 ---
 
-#### 🎧 [Music Composer Reel](https://play.reelcrafter.com/BOtkvkkMQc2Bi-ONyx15uQ)
+#### 🎧 [Music Compositions](https://play.reelcrafter.com/BOtkvkkMQc2Bi-ONyx15uQ)
 
 ---
